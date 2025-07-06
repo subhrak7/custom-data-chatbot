@@ -1,0 +1,5 @@
+streamlit
+langchain
+PyMuPDF
+python-dotenv
+google-generativeai
